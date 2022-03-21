@@ -23,10 +23,11 @@ Faceook prophet
   #pip install fbprophet
 ```
 
-   <img src="interactive_time_series.gif" height="300" width="450">
+   <img src="asset/interactive_time_series.gif" height="300" width="450">
 
 
 ## 3. Seasonal decomposition
 [See Notebook](seasonal%20decomposition.ipynb)
 
+ <img src="asset/trend.png" height="200" width="250">
 
