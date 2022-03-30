@@ -24,6 +24,8 @@ Faceook prophet
 ```
 
    <img src="asset/interactive_time_series.gif" height="300" width="450">
+   
+   <img src="asset/prophet forecasting exp.png" height="200" width="550">
 
 
 ## 3. Seasonal decomposition
