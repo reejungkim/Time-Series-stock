@@ -33,3 +33,5 @@ Faceook prophet
 
  <img src="asset/trend.png" height="200" width="250">
 
+#### Referecne
+- [Additive vs Multiplicative seasonality](https://towardsdatascience.com/finding-seasonal-trends-in-time-series-data-with-python-ce10c37aa861)
